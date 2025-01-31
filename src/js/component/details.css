@@ -1,0 +1,32 @@
+.details-container {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    background-color: #222;
+    color: white;
+}
+
+.left-side {
+    width: 40%;
+}
+
+.right-side {
+    width: 60%;
+}
+
+.details-image {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.details-info {
+    margin-top: 20px;
+}
+
+.details-info p {
+    margin: 5px 0;
+}
+
+.details-info strong {
+    color: #ffc107;
+}
